@@ -46,8 +46,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1KUMAR215&layout=compact&theme=radical)
 
-## 🏆 GitHub Profile Trophy:
+## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR215&theme=gruvbox&column=4&no-bg=true&rank=SSS,SS,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR215&theme=darkhub&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR215&theme=algolia&row=2&column=3&titles=Stars,Followers,Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 
 
 ## 🔗 Connect with me:
