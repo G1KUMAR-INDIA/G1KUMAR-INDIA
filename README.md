@@ -1,7 +1,6 @@
 # Hi, I'm Reddyvari Jeevan Kumar 👋
 
-- 🔭 I’m currently working on a MERN stack platform.
-- 🌱 I’m currently learning advanced Node.js and payment gateways like Stripe.
+- 🌱 I’m currently Learning technologies related to MERN stack platform.
 - 👯 I’m looking to collaborate on open-source React projects.
 - 💬 Ask me about Full Stack Development and MERN.
 - ⚡ Fun fact: I love coding and playing chess.
