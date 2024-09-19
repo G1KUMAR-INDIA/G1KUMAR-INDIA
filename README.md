@@ -34,6 +34,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/G1KUMAR215)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://x.com/G1KUMAR_INDIA)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=G1KUMAR215.visitor-badge)
+![Visitor Count](https://profile-counter.glitch.me/{G1KUMAR215}/count.svg)
+
 
 
