@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning advanced Node.js and payment gateways like Stripe.
 - 👯 I’m looking to collaborate on open-source React projects.
 - 💬 Ask me about Full Stack Development and MERN.
-- 📫 How to reach me: g1kumar215@gmail.com
 - ⚡ Fun fact: I love coding and playing chess.
 
 ## 🚀 Skills & Technologies:
@@ -30,6 +29,7 @@
 
 
 ## 🔗 Connect with me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyjeevankumar1994@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918501891921)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g1kumarr/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/G1KUMAR215)
