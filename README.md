@@ -1,4 +1,4 @@
-# Hi, I'm Jeevan Kumar 👋
+# Hi, I'm Reddyvari Jeevan Kumar 👋
 
 - 🔭 I’m currently working on a MERN stack vehicle rental platform.
 - 🌱 I’m currently learning advanced Node.js and payment gateways like Stripe.
