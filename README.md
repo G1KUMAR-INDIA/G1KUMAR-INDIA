@@ -1,6 +1,6 @@
 # Hi, I'm Reddyvari Jeevan Kumar 👋
 
-- 🔭 I’m currently working on a MERN stack vehicle rental platform.
+- 🔭 I’m currently working on a MERN stack platform.
 - 🌱 I’m currently learning advanced Node.js and payment gateways like Stripe.
 - 👯 I’m looking to collaborate on open-source React projects.
 - 💬 Ask me about Full Stack Development and MERN.
@@ -33,11 +33,11 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 
-## 🚧 Projects:
+<!-- ## 🚧 Projects:
 - [Vehicle Rental Platform Front-End](https://github.com/jeevankumar/vehicle-rental-front-end) - A MERN stack platform for renting vehicles.
 - [Vehicle Rental Platform Back-End](https://github.com/jeevankumar/vehicle-rental-back-end) - A MERN stack platform for renting vehicles.
 - [URL Shortener App Front-End](https://github.com/jeevankumar/url-shortener-front-end) - A URL shortener app with authentication.
-- [URL Shortener App Back-End](https://github.com/jeevankumar/url-shortener-back-end) - A URL shortener app with authentication.
+- [URL Shortener App Back-End](https://github.com/jeevankumar/url-shortener-back-end) - A URL shortener app with authentication. -->
 
 ## 📊 GitHub Stats:
 ![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1KUMAR215&show_icons=true&theme=radical)
