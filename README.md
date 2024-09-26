@@ -41,12 +41,12 @@
 - [URL Shortener App Back-End](https://github.com/jeevankumar/url-shortener-back-end) - A URL shortener app with authentication. -->
 
 ## 📊 GitHub Stats:
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1KUMAR215&show_icons=true&theme=radical)
+![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1KUMAR_INDIA&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1KUMAR215&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1KUMAR_INDIA&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR215&theme=algolia&row=2&column=6&titles=Stars,Followers,Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR_INDIA&theme=algolia&row=2&column=6&titles=Stars,Followers,Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -55,7 +55,7 @@
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g1kumarr/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/G1KUMAR215)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/G1KUMAR_INDIA)
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyjeevankumar1994@gmail.com)
@@ -66,7 +66,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918501891921)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{G1KUMAR215}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{G1KUMAR_INDIA}/count.svg)
 
 
 
