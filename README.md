@@ -34,16 +34,6 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 
-<!-- ## 🚧 Projects:
-- [Vehicle Rental Platform Front-End](https://github.com/jeevankumar/vehicle-rental-front-end) - A MERN stack platform for renting vehicles.
-- [Vehicle Rental Platform Back-End](https://github.com/jeevankumar/vehicle-rental-back-end) - A MERN stack platform for renting vehicles.
-- [URL Shortener App Front-End](https://github.com/jeevankumar/url-shortener-front-end) - A URL shortener app with authentication.
-- [URL Shortener App Back-End](https://github.com/jeevankumar/url-shortener-back-end) - A URL shortener app with authentication. -->
-
-## 📊 GitHub Stats:
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1KUMAR_INDIA&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1KUMAR_INDIA&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR_INDIA&theme=algolia&row=2&column=6&titles=Stars,Followers,Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
