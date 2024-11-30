@@ -1,6 +1,6 @@
 # Hi, I'm Reddyvari Jeevan Kumar 👋
 
-- 🌱 I’m currently Learning technologies related to MERN stack platform.
+- 🌱 I’m currently Learning technologies related to MERN stack platform and Python Program towards Data Science.
 - 👯 I’m looking to collaborate on open-source React projects.
 - 💬 Ask me about Full Stack Development and MERN.
 - ⚡ Fun fact: I love coding and playing chess.
