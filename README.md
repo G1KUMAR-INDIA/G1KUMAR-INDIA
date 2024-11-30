@@ -36,7 +36,11 @@
 
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR_INDIA&theme=algolia&row=2&column=6&titles=Stars,Followers,Commit,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME) -->
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR-INDIA&theme=dark&margin-w=10&margin-h=10)
+
 
 
 
