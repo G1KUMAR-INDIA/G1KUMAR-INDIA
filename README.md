@@ -1,6 +1,6 @@
 # Hi, I'm Reddyvari Jeevan Kumar 👋
 
-- 🌱 I’m currently Learning technologies related to MERN stack platform and Python Program towards Data Science.
+- 🌱 I’m currently Learning technologies related to Full Stack Development in Python, AWS, AZURE, GCP and DevOps towards Data Engineering.
 - 👯 I’m looking to collaborate on open-source React projects.
 - 💬 Ask me about Full Stack Development and MERN.
 - ⚡ Fun fact: I love coding and playing chess.
@@ -57,7 +57,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/g1kumarr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/g1kumar.in)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g1kumar_ind)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918501891921)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918309021926)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{G1KUMAR_INDIA}/count.svg)
